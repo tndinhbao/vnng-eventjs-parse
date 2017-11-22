@@ -1,2 +1,3 @@
-# vnng-eventjs-parse
+# vnng-eventjs-parser
+
 Middleware JSON event parser

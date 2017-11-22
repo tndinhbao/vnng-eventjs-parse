@@ -1,0 +1,17 @@
+{
+  "name": "vnng-eventjs-parser",
+  "version": "0.0.1",
+  "description": "Middleware JSON event parser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tndinhbao/vnng-eventjs-parser.git"
+  },
+  "keywords": [
+    "eventjs",
+    "json",
+    "vnng"
+  ],
+  "author": "Bao Tran",
+  "license": "MIT"
+}
